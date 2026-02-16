@@ -35,10 +35,17 @@
 
 ### LinkSwift
 直链获取、UI 美化、支持多种下载器
+
+#### 正式版
 - Github 国际: [hmjz100/LinkSwift/（改）网盘直链下载助手.user.js](https://github.com/hmjz100/LinkSwift/raw/main/（改）网盘直链下载助手.user.js)
 - OpenUserJS 国际（更新不及时）: [hmjz100/LinkSwift.user.js](https://openuserjs.org/install/hmjz100/LinkSwift.user.js)
 - Gitee 国内: [hmjz100/LinkSwift/（改）网盘直链下载助手.user.js](https://gitee.com/hmjz100/LinkSwift/raw/main/（改）网盘直链下载助手.user.js)
 - 脚本猫 国内: [hmjz100/1604/LinkSwift.user.js](https://scriptcat.org/scripts/code/1604/LinkSwift.user.js)
+
+#### 金丝雀版
+此版本可能不稳定，但有着最新的功能、修复等。
+
+- Github 国际: [hmjz100/LinkSwift/（改）网盘直链下载助手.user.js](https://github.com/hmjz100/LinkSwift/raw/dev/（改）网盘直链下载助手.user.js)
 
 ### （改）百度网盘会员青春版
 迁移到新仓库啦~ <a href="https://github.com/hmjz100/BaiduNetDiskYouthMember#安装">跳转到仓库</a>
@@ -88,7 +95,7 @@
 
 
 ## 版本号
-v1.1.2.1（基于原版 v6.2.7）  
+v1.1.3（基于原版 v6.2.7）  
 本脚本目前仅在 Github、Gitee、脚本猫脚本站 与 OpenUserJS 发布；  
 如果您是在其他渠道获取到本脚本的，安装后所带来的问题作者概不负责。
 
@@ -96,6 +103,7 @@ v1.1.2.1（基于原版 v6.2.7）
 
 | 版本号 | 创建日期 | 更新日志 |
 | -------- | -------- | -------- |
+| 1.1.3   | 2026年02月16日 | LinkSwift 开发者在此祝您新春快乐！<br/>爆竹声中一岁除，春风送暖入屠苏。LinkSwift 迎来功能更新：<br/>1、新增 - IDM 客户端设置；<br/>2、优化 - 链接缓存、浮动提示框；<br/>3、适配 - 百度网盘分享页。 |
 | 1.1.2.1 | 2025年12月28日 | 1、新增 - API 下载的推送到 IDM 功能；<br/>（感谢 <a href="https://github.com/Night-stars-1" target="_blank">Night Stars</a> 的帮助）<br/>2、修复 - 复制 Aria2、cURL 命令行错误。 |
 | 1.1.2   | 2025年12月26日 | 1、适配 - 123 云盘新策略；<br/>2、适配 - 夸克、UC 网盘分享页；<br/>3、新增 - 增强下载的多块多线程支持；<br/>4、优化 - 页面绿化的部分匹配规则；<br/>5、优化 - 增强下载进度条样式。 |
 | 1.1.1.9 | 2025年09月13日 | 1、修复 - 123 云盘下载视频变为缩略图。 |
